@@ -16,6 +16,11 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexSo11/AlexSo11/pacman-output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AlexSo11/AlexSo11/pacman-output/pacman-contribution-graph.svg">
 </picture>
+<div align="left">
+  <a href="www.linkedin.com/in/alejandro-quiñones-366648366" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="24" alt="linkedin logo"  />
+  </a>
+</div>
 -->
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox"  />
@@ -75,10 +80,6 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="left">
-  <a href="www.linkedin.com/in/alejandro-quiñones-366648366" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="24" alt="linkedin logo"  />
-  </a>
-</div>
+
 
 ###
