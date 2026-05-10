@@ -11,7 +11,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexSo11/AlexSo11/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexSo11/AlexSo11/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AlexSo11/AlexSo11/pacman-output/pacman-contribution-graph.svg">
+</picture>
 -->
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox"  />
@@ -67,11 +71,7 @@ Here are some ideas to get you started:
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexSo11/AlexSo11/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexSo11/AlexSo11/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AlexSo11/AlexSo11/pacman-output/pacman-contribution-graph.svg">
-</picture>
+
 
 ###
 
@@ -80,11 +80,5 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="24" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-###
-
-<p align="left">I am a Linux enthusiast and advocate. My current primary distribution is Fedora GNOME, although I am constantly exploring and testing different distributions to optimize my development workflow and system performance.</p>
 
 ###
