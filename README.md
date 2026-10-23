@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=60&desc=Computer%20Engineer&descSize=20&descAlign=50&descAlignY=80&theme=gruvbox" width="100%" alt="header" />
 </div>
 
-<h1 align="center">Hi, I'm Hector Solís 👋</h1>
+<h1 align="center">Hi, I'm Hector Solís!</h1>
 
 <div align="center">
   <a href="https://hasq.dev">
@@ -142,14 +142,6 @@ I build systems that hold up under measurement: scalable backends, high-performa
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexSo11/AlexSo11/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexSo11/AlexSo11/output/github-contribution-grid-snake.svg" />
     <img alt="snake contribution graph" src="https://raw.githubusercontent.com/AlexSo11/AlexSo11/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexSo11/AlexSo11/pacman-output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexSo11/AlexSo11/pacman-output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AlexSo11/AlexSo11/pacman-output/pacman-contribution-graph.svg">
   </picture>
 </div>
 
