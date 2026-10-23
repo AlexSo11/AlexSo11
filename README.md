@@ -1,70 +1,93 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header&fontSize=0&theme=dark" width="100%" alt="" />
+<div align="center">
 
-<h1 align="left">Hector Solís</h1>
+<p><code>alexso11@github ~ $ ./maintainer.sh</code></p>
 
-Computer Engineer · Guadalajara, MX (UTC-6)
-
-I build scalable systems, high-performance APIs and 3D medical imaging pipelines, with measured engineering practices and reproducible results.
-
-<div align="left">
-  <a href="https://hasq.dev">
-    <img src="https://img.shields.io/badge/hasq.dev-181717?style=for-the-badge&logo=aboutdotme&logoColor=white" height="26" alt="website" />
-  </a>
-  <a href="https://www.linkedin.com/in/alejandro-qui%C3%B1ones-366648366">
-    <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white" height="26" alt="linkedin" />
-  </a>
-  <a href="mailto:ha.solis.q@gmail.com">
-    <img src="https://img.shields.io/badge/ha.solis.q%40gmail.com-181717?style=for-the-badge&logo=gmail&logoColor=white" height="26" alt="email" />
-  </a>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=alexso11&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F246409038%3Fu%3D8677c124c21c5ccc8cb5a85b70a11dda716340e5%26v%3D4&style=terminal&v=oss-system-scan-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/system-scan?username=alexso11&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F246409038%3Fu%3D8677c124c21c5ccc8cb5a85b70a11dda716340e5%26v%3D4&style=terminal&v=oss-system-scan-1&mode=dark" width="860" alt="h.alex.sq animated maintainer system scan" />
+</picture>
+</p>
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1200&color=6E7781&center=false&vCenter=true&width=560&lines=Medical+imaging+%26+scientific+computing;Scalable+systems+%26+high-performance+APIs;Measure+before+touching" alt="" />
+<h2>Why I build in public</h2>
 
-## Tech stack
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Focus</h3><p><code>Python</code> · <code>HTML</code> · <code>JavaScript</code></p></td>
+<td width="33%" valign="top"><h3>Proof</h3><p>11 public repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Contribution</h3><p>160 contributions · 40 active days</p></td>
+</tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,go,rust,ts,js,java,sql&perline=10" alt="languages" />
-<br/>
-<img src="https://skillicons.dev/icons?i=fastapi,django,svelte,vite,threejs,pandas,numpy,pytorch&perline=10" alt="frameworks" />
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,redis,nginx,linux,git,githubactions,mysql,postgres&perline=10" alt="infrastructure" />
+<p>Computer Engineer Student</p>
 
-## Selected work — in progress
+<h2>Open-source toolbox</h2>
 
-- **InnovaMed AI** — DICOM web viewer with AI-assisted segmentation (Django, VTK.js, PyTorch/MONAI).
-- **Flood digital twin ZMG** — Go orchestrator + C++ Saint-Venant solver (OpenMP), WebGL streaming under 2 GB RAM.
-- **PET/CT segmentation** — supervoxel 3D pipeline, metaheuristic optimization, Rust meshing kernel 39× faster than NumPy.
+<p><code>alexso11@github ~ $ toolbox --list</code></p>
 
-## Public repositories
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=alexso11&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F246409038%3Fu%3D8677c124c21c5ccc8cb5a85b70a11dda716340e5%26v%3D4&style=terminal&v=oss-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=alexso11&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F246409038%3Fu%3D8677c124c21c5ccc8cb5a85b70a11dda716340e5%26v%3D4&style=terminal&v=oss-stack-1&mode=dark" width="100%" alt="h.alex.sq open-source technology toolbox" />
+</picture>
+</p>
 
-<div align="left">
-  <a href="https://github.com/AlexSo11/sistema_gestion_hospitalaria">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexSo11&repo=sistema_gestion_hospitalaria&theme=github-dark&show_owner=false" height="145" alt="sistema_gestion_hospitalaria" />
-  </a>
-  <a href="https://github.com/AlexSo11/sistema_control_escolar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexSo11&repo=sistema_control_escolar&theme=github-dark&show_owner=false" height="145" alt="sistema_control_escolar" />
-  </a>
-  <br/>
-  <a href="https://github.com/AlexSo11/sistema_gestion_farmacia">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexSo11&repo=sistema_gestion_farmacia&theme=github-dark&show_owner=false" height="145" alt="sistema_gestion_farmacia" />
-  </a>
-  <a href="https://github.com/AlexSo11/web_hasq">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexSo11&repo=web_hasq&theme=github-dark&show_owner=false" height="145" alt="web_hasq" />
-  </a>
-</div>
+<table width="100%">
+<tr>
+<td width="17%" align="center"><strong>Python</strong><br /><sub>76%</sub></td>
+<td width="17%" align="center"><strong>HTML</strong><br /><sub>7%</sub></td>
+<td width="17%" align="center"><strong>JavaScript</strong><br /><sub>5%</sub></td>
+<td width="17%" align="center"><strong>CSS</strong><br /><sub>4%</sub></td>
+<td width="17%" align="center"><strong>Go</strong><br /><sub>4%</sub></td>
+<td width="17%" align="center"><strong>TypeScript</strong><br /><sub>2%</sub></td>
+</tr>
+</table>
 
-## GitHub
+<h2>Repositories worth exploring</h2>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexSo11&show_icons=true&theme=github-dark&hide_border=false" height="165" alt="github stats" />
-  <img src="https://streak-stats.demolab.com?user=AlexSo11&theme=github-dark-dark&locale=en" height="165" alt="streak stats" />
-</div>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=alexso11&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F246409038%3Fu%3D8677c124c21c5ccc8cb5a85b70a11dda716340e5%26v%3D4&repos=alexso11%2Fweb_hasq%2Calexso11%2FChatBot-Spotify%2Calexso11%2Fsistema_control_escolar%2Calexso11%2Fsistema_gestion_farmacia&v=oss-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=alexso11&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F246409038%3Fu%3D8677c124c21c5ccc8cb5a85b70a11dda716340e5%26v%3D4&repos=alexso11%2Fweb_hasq%2Calexso11%2FChatBot-Spotify%2Calexso11%2Fsistema_control_escolar%2Calexso11%2Fsistema_gestion_farmacia&v=oss-projects-1&mode=dark" width="860" alt="h.alex.sq maintainer repositories" />
+</picture>
+</p>
 
-<div align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexSo11/AlexSo11/output/github-contribution-grid-snake-dark.svg?v=1" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexSo11/AlexSo11/output/github-contribution-grid-snake.svg?v=1" />
-    <img alt="snake contribution graph" src="https://raw.githubusercontent.com/AlexSo11/AlexSo11/output/github-contribution-grid-snake.svg?v=1" />
-  </picture>
-</div>
+<table width="100%">
+<tr>
+<td width="25%" valign="top"><h3><a href="https://github.com/AlexSo11/ChatBot-Spotify">ChatBot-Spotify</a></h3><p>ChatBot Discord Spoti</p><p><sub>Python · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><h3><a href="https://github.com/AlexSo11/sistema_control_escolar">sistema_control_escolar</a></h3><p>Una plataforma integral diseñada para la administración técnica y pedagógica de instituciones educativas. El sistema centraliza la logística académica</p><p><sub>Python · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><h3><a href="https://github.com/AlexSo11/sistema_gestion_farmacia">sistema_gestion_farmacia</a></h3><p>Una solución integral para el control de suministros médicos, gestión de ventas y cadena de suministro. Este sistema está diseñado para manejar la com</p><p><sub>Python · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=70&section=footer&fontSize=0&theme=dark" width="100%" alt="" />
+<h2>Contribution activity</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=alexso11&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F246409038%3Fu%3D8677c124c21c5ccc8cb5a85b70a11dda716340e5%26v%3D4&style=terminal&v=oss-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=alexso11&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F246409038%3Fu%3D8677c124c21c5ccc8cb5a85b70a11dda716340e5%26v%3D4&style=terminal&v=oss-stats-1&mode=dark" width="100%" alt="h.alex.sq open-source signal" />
+</picture>
+</p>
+
+<h2>Contribution trail</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=alexso11&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F246409038%3Fu%3D8677c124c21c5ccc8cb5a85b70a11dda716340e5%26v%3D4&v=oss-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=alexso11&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F246409038%3Fu%3D8677c124c21c5ccc8cb5a85b70a11dda716340e5%26v%3D4&v=oss-heatmap-1&mode=dark" width="100%" alt="h.alex.sq contribution trail" />
+</picture>
+</p>
+
+<hr />
+
+<h2>Contribute together</h2>
+
+<p>If the work is useful, open an issue, improve the docs, share a project, or start a conversation.</p>
+
+<p align="center"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=alexso11&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F246409038%3Fu%3D8677c124c21c5ccc8cb5a85b70a11dda716340e5%26v%3D4&v=oss-social-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/social?username=alexso11&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F246409038%3Fu%3D8677c124c21c5ccc8cb5a85b70a11dda716340e5%26v%3D4&v=oss-social-1&mode=dark" width="100%" alt="h.alex.sq community links" />
+</picture></p>
+<p align="center"><a href="https://github.com/alexso11">GitHub</a></p>
+<p align="center"><sub>h.alex.sq · open-source profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
